@@ -1,6 +1,6 @@
 Animated Header
 =========
-A fixed header that will animate its size on scroll. The inner elements will also adjust their size with a transition.
+A simple header class switch on scroll.
 
 ### Usage
 
