@@ -1,0 +1,20 @@
+{
+  "name": "animated-header",
+  "version": "1.0.0",
+  "description": "A fixed header that will animate its size on scroll. The inner elements will also adjust their size with a transition.",
+  "license": "MIT",
+  "main": "animated-header.min.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leowebguy/animated-header.git"
+  },
+  "authors": [
+    "botelho <http://tympanus.net/codrops>"
+  ],
+  "contributors": [
+    "Leo Leoncio <leowebguy@gmail.com>"
+  ],
+  "bugs": {
+    "url": "https://github.com/leowebguy/animated-header/issues"
+  }
+}
